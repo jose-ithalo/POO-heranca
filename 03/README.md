@@ -34,7 +34,7 @@ de herança.
       - Ao ser execultado deve apenas incrementar a quantidade de magias em +1 
   ```
   
-  3 - O Arqueiro possui as seguintes características :
+  3 - O Arqueiro possui as seguintes características:
   
   ```
 - Quantidade de flechas (por padrão é 5)
