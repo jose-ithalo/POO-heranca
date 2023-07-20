@@ -2,7 +2,7 @@ export interface IUsuario {
     nome: string,
     email: string,
     telefone: number,
-    senha: string,
+    senha: string
 }
 
 export class Usuario {

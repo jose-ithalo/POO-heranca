@@ -12,7 +12,7 @@ const rodrigo = new Aluno({
     nome: 'Rodrigo',
     email: 'rody@email.com',
     telefone: 945573221,
-    senha: '123',
+    senha: '123'
 });
 
 console.log(valter.autenticar('47vt'));
