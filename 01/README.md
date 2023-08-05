@@ -26,7 +26,7 @@ Analise os animais a seguir:
   - Altura
   - Comprimento
   - Miar
-    - Ao mair, será exibido a mensagem: `Gato Miando`
+    - Ao miar, será exibido a mensagem: `Gato Miando`
   - Andar
     - Ao andar, será exibido a mensagem: `Animal Andando`
   - Comer
